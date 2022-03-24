@@ -56,3 +56,20 @@
 | 1433 | MS SQL   |                        |
 | 3389 | RDP      |                        |
 | 3306 | MYSQL    |                        |
+
+### Routing
+Para ver cómo se ve su tabla de enrutamiento actual, use los siguientes comandos:
+- ip route <b>en Linux</b>
+- route print <b>en Windows</b>
+- netstat -r <b>en OSX</b>
+
+**Añadiendo una nueva ruta**
+```
+ip route add <network_ip>/<cidr> via <gateway_ip>
+```
+
+### MAC Address
+Para descubrir la dirección MAC de las tarjetas de red instaladas, puede utilizar:
+- ipconfig /all <b>en Windows</b>
+- ip addr <b>en Linux</b>
+- ifconfig <b>en OSX</b>
