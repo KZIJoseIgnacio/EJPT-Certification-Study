@@ -9,7 +9,7 @@ Cabe decir que muchos comandos podrian faltar o estar mal escritos así que es n
 
 ---
 ## Tabla De Contenidos
-- [Networking](/Paginas/Networking)
+- [Networking](/Paginas/Networking.md)
 - [Penetration Testing](/pages/pentesting.md)
 - [Information Gathering](/pages/info_gathering.md)
 - [Footprinting & Scanning](/pages/footprinting_scanning.md)
