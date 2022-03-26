@@ -11,7 +11,7 @@ Cabe decir que muchos comandos podrian faltar o estar mal escritos así que es n
 ## Tabla De Contenidos
 - [Networking](/Paginas/Networking.md)
 - [Penetration Testing](/Paginas/Penetration%20Testing.md)
-- [Information Gathering](/Paginas/Paginas/Information%20Gathering.md)
+- [Information Gathering](/Paginas/Information%20Gathering.md)
 - [Footprinting & Scanning](/Paginas/Footprinting%20%26%20Scanning.md)
 - [Vulnerability Assesment](/Paginas/Vulnerability%20Assesment.md)
 - [Web Attacks](/Paginas/Web%20Attacks.md)
