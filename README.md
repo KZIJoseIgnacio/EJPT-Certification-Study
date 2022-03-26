@@ -22,7 +22,7 @@ Cabe decir que muchos comandos podrian faltar o estar mal escritos así que es n
 ---
 
 ## Recursos Extras
-- [Example](/pages/networking.md)
+- [Cheat Sheet Commands](/pages/Cheat Sheet Commands.md)
 - [Example V2](/pages/pentesting.md)
 - [Example v3](/pages/info_gathering.md)
 
