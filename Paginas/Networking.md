@@ -73,3 +73,32 @@ Para descubrir la dirección MAC de las tarjetas de red instaladas, puede utiliz
 - ipconfig /all <b>en Windows</b>
 - ip addr <b>en Linux</b>
 - ifconfig <b>en OSX</b>
+
+### ARP Cache
+Puede verificar el caché ARP de sus hosts escribiendo:
+- arp -a <b>on Windows</b>
+- ip neighbour <b>on Linux</b>
+- arp <b>on OSX</b>
+
+### Netstat Command
+Para verificar los puertos de escucha y las conexiones (TCP) actuales en un host, puede usar:
+- netstat -ano <b>on Windows</b>
+- netstat -tunp <b>on Linux</b>
+- netstat -p tcp -p udp <b>together with</b></br>
+  lsof -n -i4TCP -i4UDP <b>on MacOS</b>
+
+### Wireshark
+
+Wireshark es un sniffer de red y analizador de protocolos.
+Estos son algunos filtros de captura básicos:
+
+| syntax                   | Description                                                                                  |
+|--------------------------|----------------------------------------------------------------------------------------------|
+| ip                       | Solo paquetes que utilizan IP como protocolo de capa 3.                                      |
+| not ip                   | Lo contrario de la sintaxis anterior.                                                        |
+| tcp port 80              | Paquetes donde el puerto TCP de origen o destino es 80.                                      |
+| net 192.168.54.0/24      | Paquetes desde y hacia la red especificada.                                                  |
+| src port 1234            | El puerto de origen debe ser 1234; el protocolo de transporte no importa.                    |
+| src net 192.168.1.0/24   | La dirección IP de origen debe estar en la red especificada.                                 |
+| host 192.168.45.65       | Todos los paquetes desde o hacia el host especificado.                                       |
+| host www.example.com     | Todos los paquetes desde o hacia el nombre de host especificado.                             |
