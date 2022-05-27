@@ -1,7 +1,7 @@
 # EJPT Certification Study 2022
 EJPT Es una certificación completamente práctica y la más introductoria en temas de pentesting por parte de eLearning Security a diferencia de las certificaciones anteriores, esta certificación tiene validez de por vida.
 
-![ejptnewmobile2](https://user-images.githubusercontent.com/69023634/160257797-81630774-fe31-4ca2-bf92-2b391e4e8159.jpg)
+![image](https://user-images.githubusercontent.com/69023634/170605517-f2c84a2e-7e20-4210-a622-6c0ee3e2d80d.png)
 
 ## Introducción
 En la siguiente guia detallare algunos de los comandos que creo necesarios para poder realizar y aprobar la certificación de manera exitosa.
