@@ -22,7 +22,7 @@ Cabe decir que muchos comandos podrian faltar o estar mal escritos así que es n
 
 ---
 
-## Hojas De Trucos
+## Cheat Sheets
 - [Cheat Sheet Commands](/Paginas/Cheat%20Sheet%20Commands.md)
 - [Cheat Sheet Variaty](/Paginas/Cheat%20Sheet%20Variaty.md)
 - [Cheat Sheet Metasploit](/Paginas/Cheat%20Sheet%20Metasploit.md)
