@@ -13,7 +13,6 @@ El recurso de "Cheat Sheet Commands" cubrira todo los comandos que necesitara pa
 ---
 ## Tabla De Contenidos
 - [Networking](/Paginas/Networking.md)
-- [Penetration Testing](/Paginas/Penetration%20Testing.md)
 - [Information Gathering](/Paginas/Information%20Gathering.md)
 - [Footprinting & Scanning](/Paginas/Footprinting%20%26%20Scanning.md)
 - [Vulnerability Assesment](/Paginas/Vulnerability%20Assesment.md)
