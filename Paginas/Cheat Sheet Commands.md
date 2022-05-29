@@ -1,5 +1,10 @@
 # Pentester Cheat Sheet CiberSecurity
 
+### Routing
+```
+ip route add <network_ip>/<cidr> via <gateway_ip>
+```
+
 ### Host
 **Actividad Del host**
 
@@ -7,7 +12,6 @@
 ping -c 1 10.10.10.10
 si TTL = 128 Windows / 64 Linux
 ```
-
 **Nombre Host**
 ```
 hostname
@@ -46,10 +50,6 @@ nmap -sS --min-rate 5000 --open -vvv -n -Pn -p- 10.10.10.10 -oG PuertosOpen
 **Escaneo Servicios**
 ```
 nmap -sC -sV -p80,443,445 10.10.10.10 -oN VersionServices
-```
-### Routing
-```
-ip route add <network_ip>/<cidr> via <gateway_ip>
 ```
 
 ### Enumeración Web
