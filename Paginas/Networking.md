@@ -72,7 +72,6 @@ ip route add <network_ip>/<cidr> via <gateway_ip>
 Para descubrir la dirección MAC de las tarjetas de red instaladas, puede utilizar:
 - ipconfig /all <b>en Windows</b>
 - ip addr <b>en Linux</b>
-- ifconfig <b>en OSX</b>
 
 ### ARP Cache
 Puede verificar el caché ARP de sus hosts escribiendo:
