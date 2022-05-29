@@ -33,7 +33,7 @@ ip route add <network_ip>/<cidr> via <gateway_ip>
 ### Reconocimiento
 **Escaneo Red Dispositivos Vivos**
 ```
-nmap -sn 10.10.10.0/24 -oG HostAlive
+nmap -sn 10.10.10.0/24 -oG HostsAlive
 ```
 
 **Escaneo Puertos Normal**
