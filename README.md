@@ -25,9 +25,9 @@ El recurso de "Cheat Sheet Commands" cubrira todo los comandos que necesitara pa
 ---
 
 ## Cheat Sheets
-- [Cheat Sheet Commands](/Paginas/Cheat%20Sheet%20Commands.md)
-- [Cheat Sheet Variaty](/Paginas/Cheat%20Sheet%20Variaty.md)
-- [Cheat Sheet Metasploit](/Paginas/Cheat%20Sheet%20Metasploit.md)
+- [Cheat Sheet | Commands](/Paginas/Cheat%20Sheet%20Commands.md)
+- [Cheat Sheet | Variaty](/Paginas/Cheat%20Sheet%20Variaty.md)
+- [Cheat Sheet | Metasploit](/Paginas/Cheat%20Sheet%20Metasploit.md)
 
 
 ---
