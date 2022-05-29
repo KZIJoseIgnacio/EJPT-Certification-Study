@@ -458,6 +458,9 @@ ftp 10.10.10.10 | connect ftp
 ```
 ftp user@10.10.10.10 | connect ftp specific user
 ```
+```
+get file.txt | download files ftp
+```
 
 **Port: 22 (SSH)**
 ```
