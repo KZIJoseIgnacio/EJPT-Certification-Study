@@ -1,7 +1,7 @@
 # Pivoting
 Pivotar es el método exclusivo de usar una instancia también conocida como "punto de apoyo" para poder "moverse" de un lugar a otro dentro de la red comprometida. Utiliza el primer punto de apoyo del sistema comprometido para permitirnos comprometer otros dispositivos y servidores que de otro modo serían inaccesibles directamente.
 
-![pivoting](https://user-images.githubusercontent.com/69023634/160257778-8f49fe83-801e-4456-a970-743ed2944070.png)
+![image](https://user-images.githubusercontent.com/69023634/170847883-8c25c85a-620f-4366-b28d-674b87f58c3f.png)
 
 Ejemplo: digamos que un atacante tiene la dirección IP 192.168.56.101. Luego, el atacante compromete otra computadora con la dirección 192.168.56.202, pero esta computadora también tiene acceso a otro rango de IP de 10.10.10.0/24. Ahora el atacante puede usar la máquina comprometida para "girar" u obtener acceso a la segunda red a la que inicialmente no tenía acceso.
 
