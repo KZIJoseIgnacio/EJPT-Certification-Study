@@ -53,6 +53,7 @@
 | 139  | NETBIOS  | transit data           |
 | 143  | IMAP     |                        |
 | 443  | HTTPS    |                        |
+| 445  | Samba    | find user and files    | 
 | 1433 | MS SQL   |                        |
 | 3389 | RDP      |                        |
 | 3306 | MYSQL    |                        |
