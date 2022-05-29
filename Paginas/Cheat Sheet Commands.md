@@ -1,10 +1,5 @@
 # Pentester Cheat Sheet CiberSecurity
 
-### Routing
-```
-ip route add <network_ip>/<cidr> via <gateway_ip>
-```
-
 ### Host
 **Actividad Del host**
 
@@ -28,6 +23,11 @@ cat /proc/versión
 ```
 ```
 cat /etc/issue
+```
+
+### Routing
+```
+ip route add <network_ip>/<cidr> via <gateway_ip>
 ```
 
 ### Reconocimiento
