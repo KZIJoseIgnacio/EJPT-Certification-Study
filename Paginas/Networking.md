@@ -85,8 +85,6 @@ Puede verificar el caché ARP de sus hosts escribiendo:
 Para verificar los puertos de escucha y las conexiones (TCP) actuales en un host, puede usar:
 - netstat -ano <b>on Windows</b>
 - netstat -tunp <b>on Linux</b>
-- netstat -p tcp -p udp <b>together with</b></br>
-  lsof -n -i4TCP -i4UDP <b>on MacOS</b>
 
 ### Wireshark
 
