@@ -78,7 +78,6 @@ Para descubrir la dirección MAC de las tarjetas de red instaladas, puede utiliz
 Puede verificar el caché ARP de sus hosts escribiendo:
 - arp -a <b>on Windows</b>
 - ip neighbour <b>on Linux</b>
-- arp <b>on OSX</b>
 
 ### Netstat Command
 Para verificar los puertos de escucha y las conexiones (TCP) actuales en un host, puede usar:
