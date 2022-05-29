@@ -47,7 +47,10 @@ nmap -sS --min-rate 5000 --open -vvv -n -Pn -p- 10.10.10.10 -oG PuertosOpen
 ```
 nmap -sC -sV -p80,443,445 10.10.10.10 -oN VersionServices
 ```
-
+### Routing
+```
+ip route add <network_ip>/<cidr> via <gateway_ip>
+```
 
 ### Enumeración Web
 **Wfuzz**
