@@ -8,7 +8,7 @@ En la siguiente guia detallare algunos de los comandos que creo necesarios para 
 
 Cabe decir que muchos o algunos de los comandos no podrian hacer falta a la hora de certificarse, pero igualmente les seran utiles en algun momento.
 
-El recurso de "Cheat Sheet Commands" cubrira todo los comandos que necesitara para aprobar dicha certificación.
+El recurso Cheat Sheet | Commands cubrira todo los comandos que necesitara para aprobar dicha certificación.
 
 ---
 ## Tabla De Contenidos
