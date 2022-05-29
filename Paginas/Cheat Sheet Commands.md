@@ -453,10 +453,10 @@ find / -writable 2>/dev/null | cut -d "/" -f 2 | sort -u | búsqueda simple de c
 
 **Port: 21 (FTP)**
 ```
-SITE CPFR /home/kenobi/.ssh/id_rsa | ver si existe un fichero existente > only version 1.3.5 File Copy
+ftp 10.10.10.10 | connect ftp
 ```
 ```
-SITE CPTO /var/tmp/id_rsa | copiar archivo > only version 1.3.5 File Copy
+ftp user@10.10.10.10 | connect ftp specific user
 ```
 
 **Port: 22 (SSH)**
