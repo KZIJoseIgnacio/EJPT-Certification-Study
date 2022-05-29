@@ -6,7 +6,7 @@ eJPT Es una certificación completamente práctica y la más introductoria en te
 ## Introducción
 En la siguiente guia detallare algunos de los comandos que creo necesarios para poder realizar y aprobar la certificación de manera exitosa.
 
-Cabe decir que muchos comandos podrian faltar o estar mal escritos así que es necesario verificar e inspeccionarlos antes de usarlos.
+Cabe decir que muchos o algunos de los comandos no podrian hacer falta a la hora de certificarse, pero igualmente les seran utiles en algun momento.
 
 ---
 ## Tabla De Contenidos
