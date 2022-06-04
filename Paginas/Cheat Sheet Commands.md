@@ -49,7 +49,7 @@ nmap -sS --min-rate 5000 --open -vvv -n -Pn -p- 10.10.10.10 -oG PuertosOpen
 
 **Escaneo Puertos UDP**
 ```
- nmap -sC -sV -sU --top-ports 100 10.10.10.10 -OG PuertosOpenUDP
+ nmap -sC -sV -sU --top-ports 100 10.10.10.10 -oG PuertosOpenUDP
 ```
 
 **Escaneo Servicios**
